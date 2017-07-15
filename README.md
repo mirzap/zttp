@@ -11,7 +11,9 @@ Feel free to contribute and integrate changes from original repository to this o
 
 ## Intallation
 
-Simply run `composer require soyhuce/zttp`. That's all.
+```
+composer require mirzap/zttp
+```
 
 ## Documentation
 
